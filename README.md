@@ -17,7 +17,7 @@ This project aims to explore and implement automatic face detection and recognit
 Install all necessary dependencies by running:
 ```sh
 pip install -r requirements_TP.txt
-
+```
 ### Running the Application
 To start the application, execute the main script:
 
